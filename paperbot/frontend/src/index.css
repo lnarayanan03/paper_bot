@@ -1,0 +1,26 @@
+
+/* Markdown table rendering */
+.markdown-body table {
+  border-collapse: collapse;
+  width: 100%;
+  font-size: 0.78rem;
+  margin: 8px 0;
+  overflow-x: auto;
+  display: block;
+}
+.markdown-body th,
+.markdown-body td {
+  border: 1px solid #3a3a3a;
+  padding: 5px 9px;
+  text-align: left;
+  white-space: nowrap;
+}
+.markdown-body th {
+  background: #2a2a2a;
+  font-weight: 600;
+}
+.markdown-body tr:nth-child(even) td {
+  background: #1e1e1e;
+}
+.markdown-body p { margin: 0 0 4px 0; }
+.markdown-body strong { color: #f0c040; }

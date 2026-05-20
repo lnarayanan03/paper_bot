@@ -1,0 +1,13 @@
+fastapi
+uvicorn
+langchain
+langgraph
+anthropic
+qdrant-client
+sentence-transformers
+fastembed
+PyMuPDF
+python-dotenv
+pillow
+httpx
+redis
