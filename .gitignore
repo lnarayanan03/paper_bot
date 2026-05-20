@@ -38,3 +38,4 @@ paperbot/frontend/dist/
 paperbot/frontend/node_modules/
 other/ 
 paperbot/backend/data/pdfs/*.pdf
+paperbot/frontend/node_modules/fdir/README.md
