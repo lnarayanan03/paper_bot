@@ -37,3 +37,4 @@ Thumbs.db
 paperbot/frontend/dist/
 paperbot/frontend/node_modules/
 other/ 
+paperbot/backend/data/pdfs/*.pdf
